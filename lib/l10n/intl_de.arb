@@ -1,0 +1,7 @@
+{
+    "local": "Lokalisierung",
+    "region": "Germany",
+    "hello": "Hallo",
+    "goodMorning": "Guten Morgen",
+    "flag": "assets/images/de.jpeg"
+}

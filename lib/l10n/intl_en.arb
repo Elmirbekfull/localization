@@ -1,0 +1,7 @@
+{
+    "local": "Localization",
+    "region": "USA",
+    "hello": "Hello",
+    "goodMorning": "Good Morning",
+    "flag": "assets/images/en.jpeg"
+}

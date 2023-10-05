@@ -1,0 +1,7 @@
+{
+    "local": "Локализация",
+    "region": "Россия",
+    "hello": "Привет",
+    "goodMorning": "Доброе Утро",
+    "flag": "assets/images/ru.jpeg"
+}
